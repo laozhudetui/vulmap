@@ -2,7 +2,7 @@ lxml
 requests
 ajpy
 colorama
-gevent>=20.9
+gevent>=24.10.1
 greenlet>=0.4.17
 requests_toolbelt
 beautifulsoup4
