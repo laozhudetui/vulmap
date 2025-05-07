@@ -2,9 +2,10 @@ lxml
 requests
 ajpy
 colorama
-gevent>=20.9
+gevent>=25.4.1
 greenlet>=0.4.17
 requests_toolbelt
 beautifulsoup4
 pycryptodome
 PySocks
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
